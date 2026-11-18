@@ -57,7 +57,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 #### 📊 Executive Summary (SCQA Framework)
 
 **1. Unit Economics & Profit Leakage Diagnostic**
-![Revenue vs Total Cost Analysis](/assets/crop_rappi_cost_vs_revenue.png)
+<img src="assets/crop_rappi_cost_vs_revenue.png" width="450" alt="Revenue vs Total Cost Analysis">
 
 * **Situation:** Overall commercial operations generated $9.61M in total revenue and $2.91M in net profit across seven core product lines.
 * **Complication:** A unit-level cost vs. revenue audit revealed a severe **$0.48M gross margin loss** concentrated in two high-volume items: *Laptop-Gaming-16GB* ($1.08M revenue vs. $1.51M cost) and *Jacket-Winter-M* ($1.61M revenue vs. $1.67M cost), driven by aggressive promotional discounts pushing final prices below unit cost.
@@ -67,7 +67,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
   * **SKU Restructuring:** Audit supplier costs and revise discount tiers for *Laptop* and *Jacket* categories, shifting promotional focus toward high-margin drivers like *Vacuum-Pro-Black* and *Sneakers-Urban-42*.
 
 **2. Marketing Efficiency & Seasonality Alignment**
-![Revenue vs Marketing Spend](/assets/crop_rappi_marketing_efficiency.png)
+<img src="assets/crop_rappi_marketing_efficiency.png" width="450" alt="Revenue vs Marketing Spend">
 
 * **Situation:** Monthly advertising expenditure remained static between $0.4M and $0.5M throughout the first half of the year, totaling $2.87M (nearly 30% of total revenue).
 * **Complication:** In February, total revenue experienced a sharp systemic contraction across all regional markets (dropping from $1.7M to $1.4M), yet marketing expenditure failed to adjust to lower seasonal demand.
