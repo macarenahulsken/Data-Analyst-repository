@@ -29,26 +29,23 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 * **📌 Project Overview:** Transformed dispersed multi-country transactional data (Peru, Chile, and Colombia) into an actionable visual narrative to evaluate revenue drivers, profitability, customer behavior, and regional performance across 2024–2025.
 * **🛠️ Tools & Technologies:** Tableau (Interactive Dashboards), Excel / Power Query (Data Cleaning & Wrangling), SCQA Framework.
 
-#### 📊 Executive Summary (SCQA Framework)
+### 📊 Executive Summary (SCQA Framework)
 
-**1. General Overview**
-![Andes Retail General Dashboard](/assets/dashboard1_andes.png)
+**1. General Overview & Seasonality**
+![Sales Evolution by Month](/assets/crop_estacionalidad_andes.png)
 
-* **Situation:** 2024 closed with a total revenue of $2.86M and a profit margin of 35.13%, with Peru leading revenue generation ($1.14M).
-* **Complication:** In 2025, the landscape contracted: revenue dropped to $2.67M (35.07% margin), representing a Year-over-Year (YoY) decline of -6.80%.
-* **Question:** Which segments or regions drove this revenue decline?
-* **Answer (Key Findings):** The decline is primarily explained by the Premium segment, which generated $0.20M less in 2025, matching the levels of the Standard segment. Regionally, although Peru remains the leader, it suffered a significant contraction (from $1.14M to $1.02M).
+* **Situation:** 2024 closed with strong performance, but looking at the full timeline, sales follow a clear cyclical pattern.
+* **Complication:** Revenue drops drastically during the cold months, hitting a low of $0.10M in July[cite: 5].
+* **Question:** How does seasonality impact our annual performance?
+* **Answer (Recommendation):** Implement a winter promotional calendar or boost high-AOV categories to offset the mid-year slump.
 
-**2. Detailed Diagnostic**
-![Andes Retail Detailed Dashboard](/assets/dashboard2_andes_detail.png)
+**2. Segment & Category Diagnostic**
+![Segment Comparison](/assets/crop_segmentos_andes.png)
 
-* **Situation:** In 2025, the Sports and Home categories were the pillars of the business, jointly contributing approximately $1.40M, with strong seasonal volume during summer months.
-* **Complication:** Three critical focus areas emerged: (1) Electronics suffered a YoY decline ($0.75M to $0.66M), (2) sales drop drastically during cold months, and (3) the Economy segment holds marginal business share.
-* **Question:** What commercial actions can mitigate seasonal drops and reactivate lagging segments?
-* **Answer (Strategic Recommendations):**
-  * **Electronics:** Deploy retargeting campaigns and targeted promotions to stimulate demand.
-  * **Seasonality:** Create a winter promotional calendar and boost the "Clothing" category (higher AOV) to offset low cold-season volume.
-  * **Economy Segment:** Conduct a competitive pricing audit (benchmarking) to evaluate entry-level price positioning.
+* **Situation:** The business relies heavily on the Premium ($2.60M) and Standard ($2.44M) tiers[cite: 5].
+* **Complication:** The *Economy* segment generates a marginal share ($0.50M), indicating a potential pricing or market fit mismatch[cite: 5].
+* **Question:** Why are we failing to capture entry-level customers?
+* **Answer (Recommendation):** Conduct a competitive pricing audit and benchmarking for entry-level products.
 
 ---
 
