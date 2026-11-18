@@ -24,7 +24,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ## Portfolio Projects
 
 ### 1. Commercial Performance & Profitability Analysis (2024–2025) | Andes Retail Group
-🔗 **[View Live Dashboard (Tableau)](https://public.tableau.com/app/profile/macarena.hulsken/viz/andes-retail-performance/Diagnosticocomercial)** | **[View Project Files](https://github.com/macarenahulsken/andes-retail-performance)**
+🔗 **[View Code on GitHub](https://github.com/macarenahulsken/andes-retail-performance)** | **[View Live Dashboard (Tableau)](https://public.tableau.com/app/profile/macarena.hulsken/viz/andes-retail-performance/Diagnosticocomercial)**
 
 * **📌 Project Overview:** Transformed dispersed multi-country transactional data (Peru, Chile, and Colombia) into an actionable visual narrative to evaluate revenue drivers, profitability, customer behavior, and regional performance across 2024–2025.
 * **🛠️ Tools & Technologies:** Tableau (Interactive Dashboards), Excel / Power Query (Data Cleaning & Wrangling), SCQA Framework.
