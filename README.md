@@ -32,14 +32,14 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ### 📊 Executive Summary (SCQA Framework)
 
 **1. General Overview & Seasonality**
-![Sales Evolution by Month](assets/2024-2025_evolution_andes.png)
+<img src="assets/2024-2025-evolution-andes.png" width="450" alt="Sales Evolution by Month">
 * **Situation:** 2024 closed with strong performance, but looking at the full timeline, sales follow a clear cyclical pattern.
 * **Complication:** Revenue drops drastically during the cold months, hitting a low of $0.10M in July[cite: 5].
 * **Question:** How does seasonality impact our annual performance?
 * **Answer (Recommendation):** Implement a winter promotional calendar or boost high-AOV categories to offset the mid-year slump.
 
 **2. Segment & Category Diagnostic**
-![Segment Comparison](assets/total_revenue_segment_andes.png)
+<img src="assets/total_revenue_segment_andes.png" width="450" alt="Segment Comparison">
 
 * **Situation:** The business relies heavily on the Premium ($2.60M) and Standard ($2.44M) tiers[cite: 5].
 * **Complication:** The *Economy* segment generates a marginal share ($0.50M), indicating a potential pricing or market fit mismatch[cite: 5].
