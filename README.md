@@ -51,19 +51,29 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ### 2. Commercial Performance & Unit Economics Audit | RappiPlus
 🔗 **[View Code on GitHub](https://github.com/macarenahulsken/RappiPlus-Commercial-Performance-Growth-Analysis)** | **[View Live Dashboard (Tableau)](https://public.tableau.com/app/profile/macarena.hulsken/viz/ProyectoRappiPlus/OverviewEjecutivo)**
 
-* **📌 Project Overview:** Audited regional sales data and checkout conversion performance to diagnose critical gross margin losses, optimize marketing spend allocation, and evaluate a new UI checkout experience.
+* **📌 Project Overview:** Audited regional sales data, unit economics, and checkout conversion performance to diagnose critical gross margin losses, optimize marketing spend allocation, and evaluate a new UI checkout experience.
 * **🛠️ Tools & Technologies:** SQL (Joins, Aggregations), Python (Pandas, SciPy — A/B Hypothesis Testing), Tableau (Dual-View Executive & Operational Dashboard).
 
-#### 📊 Executive Summary
+#### 📊 Executive Summary (SCQA Framework)
 
-![RappiPlus Dashboard](/assets/dashboard_rappiplus.png)
+**1. Unit Economics & Profit Leakage Diagnostic**
+![Revenue vs Total Cost Analysis](/assets/crop_rappi_cost_vs_revenue.png)
 
-* **Key Analytical Findings:**
-  * **Profit Leakage:** Uncovered a **$0.48M gross margin loss** concentrated in the *Laptop* and *Jacket* categories, driven by aggressive promotional discounts pushing final sale prices below unit cost.
-  * **A/B Testing:** Evaluated conversion rates between the original checkout UI and the new variant using statistical hypothesis testing in Python to determine behavioral impact.
-* **Strategic Recommendations:**
-  * Implement automated pricing guardrails/alerts in the ERP/POS system to block promotions that result in negative unit margins.
-  * Reallocate seasonal marketing budgets toward high-margin categories and restructure discount tiers on underperforming SKUs.
+* **Situation:** Overall commercial operations generated $9.61M in total revenue and $2.91M in net profit across seven core product lines.
+* **Complication:** A unit-level cost vs. revenue audit revealed a severe **$0.48M gross margin loss** concentrated in two high-volume items: *Laptop-Gaming-16GB* ($1.08M revenue vs. $1.51M cost) and *Jacket-Winter-M* ($1.61M revenue vs. $1.67M cost), driven by aggressive promotional discounts pushing final prices below unit cost.
+* **Question:** How can we immediately stop profit erosion while maintaining sales volume?
+* **Answer (Strategic Recommendations):**
+  * **Automated Pricing Guardrails:** Implement ERP/POS system alerts to automatically block promotional discounts that push unit margins below zero.
+  * **SKU Restructuring:** Audit supplier costs and revise discount tiers for *Laptop* and *Jacket* categories, shifting promotional focus toward high-margin drivers like *Vacuum-Pro-Black* and *Sneakers-Urban-42*.
+
+**2. Marketing Efficiency & Seasonality Alignment**
+![Revenue vs Marketing Spend](/assets/crop_rappi_marketing_efficiency.png)
+
+* **Situation:** Monthly advertising expenditure remained static between $0.4M and $0.5M throughout the first half of the year, totaling $2.87M (nearly 30% of total revenue).
+* **Complication:** In February, total revenue experienced a sharp systemic contraction across all regional markets (dropping from $1.7M to $1.4M), yet marketing expenditure failed to adjust to lower seasonal demand.
+* **Question:** How should marketing budgets be managed to maximize Return on Ad Spend (ROAS)?
+* **Answer (Strategic Recommendations):**
+  * **Dynamic Budget Allocation:** Transition from flat monthly ad spend to a demand-driven model, scaling back acquisition spend during seasonal troughs (February) and reinvesting during peak conversion windows (March and May).
 
 ---
 
