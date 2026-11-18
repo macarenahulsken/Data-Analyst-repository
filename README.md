@@ -85,14 +85,14 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 
 #### 📊 Executive Summary
 
-![ConnectaTel Segmentation Chart](/assets/chart_connectatel.png)
+**1. Customer Segmentation by Usage Tier**
+<img src="assets/connectatel_usage_tier.png" width="450" alt="Customer Distribution by Usage Tier">
 
-* **Data Engineering & Statistical Methodology:**
-  * Merged and standardized three relational datasets (*Users, Plans, Usage*), resolving an **11.7% missing geographic data gap** via Median Imputation.
-  * Applied **Winsorization** via NumPy to the top 3% of call duration outliers to prevent statistical skew while preserving "Power User" profiles.
-* **Key Analytical Findings:**
-  * Engineered a multi-tier segmentation framework (*Usage Tiers & Demographic Brackets*) isolating distinct user personas, including high-frequency messaging users and long-duration callers.
-  * Identified a significant volume of *Basic* plan subscribers consistently exceeding their monthly allowances and paying overage fees.
-* **Strategic Recommendations:**
-  * Introduce a **"Basic Plus" intermediate subscription tier** priced between the Basic and Pro plans to capture mid-market demand, improve retention, and increase predictable recurring revenue (ARPU).
+* **Key Analytical Findings:** Engineered a multi-tier segmentation framework (*Usage Tiers & Demographic Brackets*) isolating distinct user personas, revealing a significant volume of *Basic* plan subscribers consistently exceeding their monthly allowances and paying overage fees.
+* **Strategic Recommendation:** Introduce a **"Basic Plus" intermediate subscription tier** priced between the Basic and Pro plans to capture mid-market demand, improve retention, and increase predictable recurring revenue (ARPU).
+
+**2. Statistical Preprocessing & Outlier Control (Winsorization)**
+<img src="assets/connectatel_winsorized_calls.png" width="450" alt="Winsorized Call Duration Distribution">
+
+* **Data Engineering & Methodology:** Merged and standardized three relational datasets (*Users, Plans, Usage*), resolving an **11.7% missing geographic data gap** via Median Imputation and applying **Winsorization** via NumPy to the top 3% of call duration outliers to prevent statistical skew while preserving "Power User" profiles.
 
