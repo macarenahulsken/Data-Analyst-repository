@@ -24,7 +24,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ## Portfolio Projects
 
 ### 1. Commercial Performance & Profitability Analysis (2024–2025) | Andes Retail Group
-🔗 **[View Live Dashboard (Tableau)](#)** | **[View Project Files](#)**
+🔗 **[View Live Dashboard (Tableau)](https://public.tableau.com/app/profile/macarena.hulsken/viz/andes-retail-performance/Diagnosticocomercial)** | **[View Project Files](https://github.com/macarenahulsken/andes-retail-performance)**
 
 * **📌 Project Overview:** Transformed dispersed multi-country transactional data (Peru, Chile, and Colombia) into an actionable visual narrative to evaluate revenue drivers, profitability, customer behavior, and regional performance across 2024–2025.
 * **🛠️ Tools & Technologies:** Tableau (Interactive Dashboards), Excel / Power Query (Data Cleaning & Wrangling), SCQA Framework.
@@ -53,7 +53,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ---
 
 ### 2. Commercial Performance & Unit Economics Audit | RappiPlus
-🔗 **[View Code on GitHub](#)** | **[View Live Dashboard (Tableau)](#)**
+🔗 **[View Code on GitHub](https://github.com/macarenahulsken/RappiPlus-Commercial-Performance-Growth-Analysis)** | **[View Live Dashboard (Tableau)](https://public.tableau.com/app/profile/macarena.hulsken/viz/ProyectoRappiPlus/OverviewEjecutivo)**
 
 * **📌 Project Overview:** Audited regional sales data and checkout conversion performance to diagnose critical gross margin losses, optimize marketing spend allocation, and evaluate a new UI checkout experience.
 * **🛠️ Tools & Technologies:** SQL (Joins, Aggregations), Python (Pandas, SciPy — A/B Hypothesis Testing), Tableau (Dual-View Executive & Operational Dashboard).
@@ -72,7 +72,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ---
 
 ### 3. User Behavior & Subscription Tier Analysis | ConnectaTel
-🔗 **[View Code & Notebook on GitHub](#)**
+🔗 **[View Code & Notebook on GitHub](https://github.com/macarenahulsken/connectatel-data-analysis)**
 
 * **📌 Project Overview:** Analyzed behavioral usage patterns across 4,000 telecom customers (calls, messaging, and data consumption) to identify high-value segments and optimize subscription tier structures.
 * **🛠️ Tools & Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning & Imputation, Outlier Winsorization, Customer Segmentation.
