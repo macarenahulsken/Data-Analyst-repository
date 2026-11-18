@@ -57,7 +57,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 #### 📊 Executive Summary (SCQA Framework)
 
 **1. Unit Economics & Profit Leakage Diagnostic**
-<img src="assets/crop_rappi_cost_vs_revenue.png" width="450" alt="Revenue vs Total Cost Analysis">
+<img src="assets/crop_rappi_cost_vs_revenue.png" width="350" alt="Revenue vs Total Cost Analysis">
 
 * **Situation:** Overall commercial operations generated $9.61M in total revenue and $2.91M in net profit across seven core product lines.
 * **Complication:** A unit-level cost vs. revenue audit revealed a severe **$0.48M gross margin loss** concentrated in two high-volume items: *Laptop-Gaming-16GB* ($1.08M revenue vs. $1.51M cost) and *Jacket-Winter-M* ($1.61M revenue vs. $1.67M cost), driven by aggressive promotional discounts pushing final prices below unit cost.
