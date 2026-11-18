@@ -32,7 +32,7 @@ Through intensive training at TripleTen, I gained solid technical proficiency in
 ### 📊 Executive Summary (SCQA Framework)
 
 **1. General Overview & Seasonality**
-<img src="assets/2024-2025-evolution-andes.png" width="450" alt="Sales Evolution by Month">
+<img src="assets/2024-2025_evolution_andes.png" width="450" alt="Sales Evolution by Month">
 * **Situation:** 2024 closed with strong performance, but looking at the full timeline, sales follow a clear cyclical pattern.
 * **Complication:** Revenue drops drastically during the cold months, hitting a low of $0.10M in July[cite: 5].
 * **Question:** How does seasonality impact our annual performance?
